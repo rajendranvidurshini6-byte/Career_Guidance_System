@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/dao/AnswerDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/dao/ResultDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/web/index.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/controller/FieldServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/dao/FieldDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/controller/AssessmentServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/dao/CareerDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/controller/CareerServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/web/register.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/service/RecommendationService.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/model/User.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/web/result.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/controller/QuizServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/controller/ProfileServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/model/Career.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/controller/QuestionServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/model/Question.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/util/PasswordUtil.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/service/AuthService.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/controller/ResultServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/model/Answer.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/util/DBConnection.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/web/login.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/web/error.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/controller/DashboardServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/web/loading.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/util/SessionUtil.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/model/Assessment.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/dao/QuestionDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/dao/AssessmentDAO.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/model/Result.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/web/fields.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/model/Field.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/web/about.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/web/profile.jsp</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/src/java/controller/LogoutServlet.java</file>
+            <file>file:/C:/Program%20Files/NetBeans-18/NetBeansProjects/CareerGuidanceSystem/web/questions.jsp</file>
+        </group>
+    </open-files>
+</project-private>
